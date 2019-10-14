@@ -12,3 +12,4 @@ The audio is enough for headphones. It is possible to use headphones/earbuds wit
 As stated in the .ino file, it requires the #include <TEA5767Radio.h> line, calling a separate library made specifically for the TEA5767 module, not for RDA5807M.
 
 Again, this project is more of a proof of concept than a real hiugh level Rx for the 6 meter amateur radio band.
+https://www.youtube.com/watch?v=2H7L6JWE_bs&feature=youtu.be
